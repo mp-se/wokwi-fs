@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "author": "mp-se",
+  "editor": "wokwi",
+  "parts": [
+    {
+      "type": "board-wemos-s2-mini",
+      "id": "esp",
+      "top": 46.17,
+      "left": -11.69,
+      "rotate": 90,
+      "attrs": { "psramSize": "2", "firmwareOffset": "0" }
+    }
+  ],
+  "connections": [
+  ],
+  "serialMonitor": { "display": "always", "newline": "lf", "convertEol": false },
+  "dependencies": {}
+}
