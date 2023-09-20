@@ -2,3 +2,4 @@
 version = 1
 firmware = '.pio/build/wokwi/firmware_merged.bin'
 elf = '.pio/build/wokwi/firmware.elf'
+gdbServerPort = 3333
